@@ -1,0 +1,63 @@
+{
+  "name": "Leonardo Ramalho",
+  "photo": "https://avatars.githubusercontent.com/u/155858887?s=400&u=0e3dbeff0d178449256384a535cce4c8622d7912&v=4",
+  "job": "Desenvolvedor Junior",
+  "location": "Piracicaba - SP",
+  "phone": "(19) 99417-0221",
+  "email": "ramalho.leo11@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/imleozzin/PORTIFOLIO-LEONARDO-RAMALHO/main/assets/data/imgs/js.png?token=GHSAT0AAAAAACQXEEVVTOXUEYT2WVAPU6YMZQW2CSQ"
+      },
+      {
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/imleozzin/PORTIFOLIO-LEONARDO-RAMALHO/main/assets/data/imgs/html.png?token=GHSAT0AAAAAACQXEEVUCSZ3D6R6X33UKHZWZQW2CRQ"
+      },
+      {
+        "name": "Css",
+        "logo": "https://raw.githubusercontent.com/imleozzin/PORTIFOLIO-LEONARDO-RAMALHO/main/assets/data/imgs/css.png?token=GHSAT0AAAAAACQXEEVU64MSC6B3XKDXQHFUZQW2CJQ"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/imleozzin/PORTIFOLIO-LEONARDO-RAMALHO/main/assets/data/imgs/github.png?token=GHSAT0AAAAAACQXEEVVL7IAVIYP7OMMLDYEZQW2CLA"
+      }
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Suporte Técnico",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (iniciante)",
+    "Espanhol (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Criação de uma Pokedex",
+      "url": "https://github.com/imleozzin/Pokedex",
+      "github": true
+    },
+    {
+      "name": "Criação do Portfolio",
+      "url": "https://github.com/imleozzin/PORTIFOLIO-LEONARDO-RAMALHO",
+      "github": true
+    },
+    {
+      "name": "Criação de uma Copia do Wikipédia",
+      "url": "https://github.com/imleozzin/Wikepedia-novo",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Atendente da Lumi Eletricidade",
+      "period": "03/2021 - 03/2024",
+      "description": "Comprometido em proporcionar experiências excepcionais aos clientes, combinando habilidades interpessoais sólidas com um profundo conhecimento dos produtos e serviços, visando sempre superar as expectativas e promover a fidelidade à marca."
+    }
+  ]
+}
