@@ -34,22 +34,27 @@
   "languages": [
     "Português BR",
     "Inglês (iniciante)",
-    "Espanhol (intermediário)"
+    "Espanhol (iniciante)"
   ],
   "portfolio": [
     {
-      "name": "Criação de uma Pokedex",
-      "url": "https://github.com/imleozzin/Pokedex",
+      "name": "Criação de um login e Cadastro",
+      "url": "https://cadastro-login-nf89k4vjg-leonardo-ramalho.vercel.app/",
+      "github": true
+    },
+    {
+      "name": " Criaçao de um site de Materiais Eletricos - Estou finalizando ainda!",
+      "url": "https://lumi-eletricidade-m4hy56d31-leonardo-ramalho.vercel.app/",
       "github": true
     },
     {
       "name": "Criação do Portfolio",
-      "url": "https://github.com/imleozzin/PORTIFOLIO-LEONARDO-RAMALHO",
+      "url": "https://portifolio-leonardo-ramalho.vercel.app/",
       "github": true
     },
     {
       "name": "Criação de uma Landing Page de uma Hamburgueria",
-      "url": "https://vercel.com/leonardo-ramalho/hamburgueria",
+      "url": "https://hamburgueria-d6xp86zn9-leonardo-ramalho.vercel.app/",
       "github": true
     }
   ],
